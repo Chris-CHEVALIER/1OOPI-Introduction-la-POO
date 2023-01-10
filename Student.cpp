@@ -1,4 +1,7 @@
 #include "Student.hpp"
+#include <iostream>
+#include <ostream>
+using namespace std;
 
 Student::Student(string newFirstName, string newLastName, double newAverage, string newEmail, int newAge)
 {
